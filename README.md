@@ -1,6 +1,6 @@
 # Exercício: Associação de Classes em Java
 
-Este exercício tem como objetivo praticar o conceito de associação entre classes em Java, onde objetos de uma classe são utilizados como atributos em outras, representando relações do tipo "possui um".
+Este exercício tem como objetivo praticar o conceito de associação entre classes em Java, onde objetos de uma classe são utilizados como atributos em outras, representando relações.
 
 ## Descrição
 
